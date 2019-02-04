@@ -3,7 +3,6 @@ service: zapier2bms
 provider:
   name: aws
   runtime: nodejs8.10
-  profile: amplify-h5sO0
   stage: dev
   region: us-east-1
   memorySize: 256
