@@ -1,0 +1,9 @@
+{
+    "body": {
+        "color": "blue",
+        "phone": "123-456-789",
+        "email": "buck.rogers@email.local",
+        "name": "Buck Rogers",
+        "companyname": "Widgets LLC"
+    }
+}

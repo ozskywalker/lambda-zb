@@ -1,3 +1,6 @@
+# secrets
+env.yml
+
 # Logs
 logs
 *.log
